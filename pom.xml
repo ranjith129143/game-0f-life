@@ -4,7 +4,7 @@
     <groupId>com.ranjith.gameoflife</groupId>
     <artifactId>game-of-life</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <packaging>war</packaging>
     <name>game-of-life</name>
     <url>https://github.com/ranjith129143/game-of-life</url>
     <properties>
